@@ -1,0 +1,1 @@
+// user asks for a number print the square and the cube

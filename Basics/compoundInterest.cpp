@@ -1,0 +1,1 @@
+// calculate the compund Interest A= P(1+r) `t

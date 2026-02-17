@@ -1,0 +1,1 @@
+// Ask for three numbers and print the average

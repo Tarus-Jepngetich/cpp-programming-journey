@@ -1,0 +1,1 @@
+// calculate BMI of a person. Formula: BMI=Weight / (Weight(Kgs) * Height(Meters))

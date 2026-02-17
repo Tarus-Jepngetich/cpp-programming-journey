@@ -1,0 +1,1 @@
+// Calculate Simple Interest = (Principal*Rtae*Time)/100
