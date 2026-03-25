@@ -1,5 +1,10 @@
-\# C++ Programming Journey 
+// $env:Path += ";C:\Users\tarje\Desktop\MinGW471\bin"
+//g++ -std=c++11 main.cpp -o app
+//
+ 
 
+\# C++ Programming Journey 
+   
 
 
 This semester we are learning \*\*Programming Languages\*\*, with a strong focus on \*\*C++\*\*.
