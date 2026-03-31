@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout << "Hello USQ C++!" << std::endl;
+    std::cout << "Hello C++!" << std::endl;
     return 0;
 }
